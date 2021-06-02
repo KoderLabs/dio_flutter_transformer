@@ -8,8 +8,10 @@ A [dio](https://github.com/flutterchina/dio) transformer especially for flutter,
 ## Install
 
 ```yaml
-dependencies:
-  dio_flutter_transformer: ^4.0.0 # latest version
+dio_flutter_transformer:
+    git:
+      url: https://github.com/KoderLabs/dio_flutter_transformer
+      ref: master
 ```
 
 ## Usage
